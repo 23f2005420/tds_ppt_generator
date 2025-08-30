@@ -22,14 +22,7 @@ Gyaan Deck is a lightweight web app that lets anyone paste long-form text (markd
 
 ## 🚀 Quick Start
 
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/23f1000805/tds-bonus-project-Auto-PPT-Generator-GyaanSetu-Deck.git
-cd tds-bonus-project-Auto-PPT-Generator-GyaanSetu-Deck
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 # Backend (Python FastAPI + pptx libraries)
@@ -39,7 +32,7 @@ pip install -r requirements.txt
 # no build step needed
 ```
 
-### 3. Run locally
+### 2. Run locally
 
 ```bash
 uvicorn app:app --reload
@@ -47,7 +40,7 @@ uvicorn app:app --reload
 
 Visit: [http://localhost:8000](http://localhost:8000)
 
-### 4. Deploy (Railway/Render/Vercel/Heroku)
+### 3. Deploy (Railway/Render/Vercel/Heroku)
 
 This app works out-of-the-box on cloud platforms. Just connect your repo and deploy.
 
